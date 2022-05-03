@@ -13,6 +13,11 @@
 	<artifactId>BankApplicationBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BankApplicationBackend</name>
+	<scm>
+    		<developerConnection>scm:git:https://github.com/gustavo-romero/Spring-Boot-Sample-Project.git/</developerConnection>
+    		<url>https://github.com/gustavo-romero/Spring-Boot-Sample-Project</url>
+    		<tag>HEAD</tag>
+  	</scm>
 
 <profiles>
   <profile>
@@ -62,6 +67,7 @@
 	
 	<properties>
 		<java.version>1.8</java.version>
+		<project.scm.id>github</project.scm.id>
 	</properties>
 
 	<dependencies>
