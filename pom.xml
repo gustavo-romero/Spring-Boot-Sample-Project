@@ -31,8 +31,8 @@
     <repositories>
       <repository>
         <id>artifactory</id>
-        <name>your-artifactory</name>
-        <url>https://your-artifactory.jfrog.io/artifactory/libs-release-local</url>
+        <name>jalasoftdevops</name>
+        <url>https://jalasoftdevops.jfrog.io/artifactory/maven-default-local</url>
         <releases>
           <enabled>true</enabled>
         </releases>
@@ -44,8 +44,8 @@
     <pluginRepositories>
       <pluginRepository>
         <id>artifactory</id>
-        <name>your-artifactory</name>
-        <url>https://your-artifactory.jfrog.io/artifactory/libs-release-local</url>
+        <name>jalasoftdevops</name>
+        <url>https://jalasoftdevops.jfrog.io/artifactory/maven-default-local</url>
         <releases>
           <enabled>true</enabled>
         </releases>
